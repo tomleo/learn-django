@@ -1,0 +1,6 @@
+Learn form media: https://docs.djangoproject.com/en/1.5/topics/forms/media/
+Create widget with: http://amsul.ca/pickadate.js/
+
+https://github.com/kmike/django-widget-tweaks
+https://github.com/maraujop/django-crispy-forms
+https://github.com/brutasse/django-floppyforms
